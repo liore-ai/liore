@@ -113,3 +113,9 @@ We welcome contributions to this project! If you have ideas for new features, ch
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Follow Us
+
+Stay updated on the latest development and news!
+
+- Twitter: [@lioreai_](https://x.com/lioreai_)
