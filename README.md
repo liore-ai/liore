@@ -5,9 +5,7 @@
 </div>
 
 ## Overview
-
 **Liore** is a conversational AI framework inspired by the classic Eliza framework. Liore allows you to create custom characters that can engage in personalized dialogues, tailored to specific personalities and behaviors. This project extends the original Eliza model by enabling developers to define custom characters and feed them specific data to improve their responses.
-
 ## Key Features
 
 - **Custom Character Creation**: Create characters with unique personalities and conversational patterns.
@@ -77,8 +75,8 @@ Liore is built to be flexible and easy to extend. You can add new characters, ne
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/liore-framework.git
-cd liore-framework
+git clone https://github.com/liore-ai/liore.git
+cd liore
 npm install
 ```
 
